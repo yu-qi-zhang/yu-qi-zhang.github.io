@@ -35,6 +35,6 @@ Hi, I'm Yuqi Zhang, a Master student in Department of Economics at Korea Univers
 - *2024.09 - 2024.12*, Teaching Assistant: Labor Economics, Empirical Microeconomics.
 - *2021.04 - 2022.11*, Assistant Brand Manager (Analyst) at Chi Forest.
 
-# Teaching and Working Experience
+# Curriculum Vitae
 **[Here is my CV (PDF)](/docs/CV_YuqiZhang.pdf)**
 
