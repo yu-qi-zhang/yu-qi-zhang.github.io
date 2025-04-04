@@ -26,13 +26,13 @@ Hi, I'm Yuqi Zhang, a Master student in Department of Economics at Korea Univers
 
 
 #  Research Experience
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03 - present* Research assistant, project on opinion dynamics study.
 
 
 
 # Teaching and Working Experience
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.03 - 2025.06*, Teaching Assistant: Intermediate Microeconomics.
+- *2024.09 - 2024.12*, Teaching Assistant: Labor Economics, Empirical Microeconomics.
+- *2021.04 - 2022.11*, Assistant Brand Manager (Analyst) at Chi Forest.
 
 
