@@ -36,5 +36,5 @@ Hi, I'm Yuqi Zhang, a Master student in Department of Economics at Korea Univers
 - *2021.04 - 2022.11*, Assistant Brand Manager (Analyst) at Chi Forest.
 
 # Curriculum Vitae
-**[Here is my CV (PDF)](https://yu-qi-zhang.github.io/assets/CV_YuqiZhang.pdf)**
+**[Here is my CV (PDF)](/assets/CV_YuqiZhang.pdf)**
 
