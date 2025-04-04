@@ -29,7 +29,7 @@ Hi, I'm Yuqi Zhang, a Master student in Department of Economics at Korea Univers
 - *2025.03 - present*, Research assistant, project on opinion dynamics study, Korea University.
 
 
-# Teaching and Working Experience
+# Teaching and Work Experience
 - *2025.03 - 2025.06*, Teaching Assistant: Intermediate Microeconomics.
 - *2024.09 - 2024.12*, Teaching Assistant: Labor Economics, Empirical Microeconomics.
 - *2021.04 - 2022.11*, Assistant Brand Manager (Analyst) at Chi Forest.
