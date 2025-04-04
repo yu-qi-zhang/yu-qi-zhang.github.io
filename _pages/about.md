@@ -20,13 +20,13 @@ redirect_from:
 Hi, I'm Yuqi Zhang, a Master student in Department of Economics at Korea University. 
 
 #  Education
-- *2023.09 - 2025.08 (now)*, MA in Economics, Korea University, Seoul, South Korea.
+- *2023.09 - 2025.08*, MA in Economics, Korea University, Seoul, South Korea.
 - *2016.09 - 2020.06*, BL in International politics and BA in Journalism, Renmin University, Beijing, China.
 
 
 
 #  Research Experience
-- *2025.03 - present* Research assistant, project on opinion dynamics study.
+- *2025.03 - present*, Research assistant, project on opinion dynamics study.
 
 
 
