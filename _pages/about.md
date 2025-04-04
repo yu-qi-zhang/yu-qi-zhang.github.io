@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Yuqi Zhang, a Master student in Department of Economics at Korea University. 
+Hi, I'm Yuqi Zhang, a Master student in Department of Economics at Korea University. My research interest lies in labor economics and applied microeconomics.
 
 #  Education
 - *2023.09 - 2025.08*, MA in Economics, Korea University, Seoul, South Korea.
@@ -26,8 +26,7 @@ Hi, I'm Yuqi Zhang, a Master student in Department of Economics at Korea Univers
 
 
 #  Research Experience
-- *2025.03 - present*, Research assistant, project on opinion dynamics study.
-
+- *2025.03 - present*, Research assistant, project on opinion dynamics study, Korea University.
 
 
 # Teaching and Working Experience
